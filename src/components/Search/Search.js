@@ -24,3 +24,5 @@ const Search = ({setSearch,setPageNumber}) => {
 }
 
 export default Search;
+
+/* Para que se adapte a la pagina  */
