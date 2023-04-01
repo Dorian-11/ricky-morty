@@ -75,8 +75,7 @@ const Home = () => {
   return (
     <div className="App">
 
-        {/*   NavBar : Barra de navegacion  */}
-        <NavBar />
+      
       
       {/* Titulo */}
   
